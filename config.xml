@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+-	id		= "com.phonegap.getting.started"
+-	version 	= "1.0.0">
++	id		= "com.phonegap.rajeshleo"
++	version 	= "1.0.9">
 
-	<name>PhoneGap: Getting Started</name>
+-	<name>PhoneGap: Getting Started</name>
++	<name>Rajeshleoapp</name>		
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+-	A template for getting started with PhoneGap development and build.phonegap.com
++       customized by rajeshleo 
 	</description>
 
 	<author href="http://alunny.github.com"
